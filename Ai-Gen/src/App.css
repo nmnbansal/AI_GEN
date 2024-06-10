@@ -1,0 +1,14 @@
+.gradient-text {
+    background: linear-gradient(to right, #FACC69, #FF91A5);
+    -webkit-background-clip: text;
+    color: transparent;
+  }
+  
+  .howitworkspara-text{
+    background: linear-gradient(to right, #5CC3FA, #9E6EE6);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 38px;
+  }
+
+  
