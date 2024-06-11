@@ -3,7 +3,7 @@
 ## Project Overview
 
 This repository contains the implementation of a landing page based on a provided Figma design. 
-AI.Gen is a landing page designed to showcase the features and capabilities of the AI.Gen platform. The landing page includes various sections such as the Navbar, Hero, Introduction, How It Works, Keywords Carousel, Tokenomics, Roadmap, and Footer, each with unique content and design elements.
+AI.Gen is a landing page designed to showcase the features and capabilities of the AI.Gen platform. The landing page includes various sections such as the Navbar, Hero, Introduction, How It Works, Tokenomics, Roadmap, and Footer, each with unique content and design elements.
 
 ## Demo
 
