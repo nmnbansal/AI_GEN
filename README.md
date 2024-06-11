@@ -15,7 +15,6 @@ You can view the live demo of the application [here](https://aigen-gamma.vercel.
 - **Hero Section**: Initial section with a prominent message or call to action.
 - **Introduction Section**: Brief overview with a background image and text content.
 - **How It Works**: Explanation of the platform's process with images and steps.
-- **Keywords Carousel**: Animated carousel of keywords with color effects.
 - **Tokenomics**: Details about the token including supply and distribution.
 - **Roadmap**: Project phases with corresponding images.
 - **Footer**: Includes a "Get Started" button, email subscription form, and social media links.
